@@ -1,0 +1,101 @@
+argcomplete==1.12.3
+argon2-cffi==21.1.0
+astroid==2.5.6
+attrs @ file:///tmp/build/80754af9/attrs_1620827162558/work
+backcall==0.2.0
+bleach==4.1.0
+Bottleneck==1.3.2
+certifi==2021.5.30
+cffi==1.14.6
+click @ file:///home/linux1/recipes/ci/click_1610990599742/work
+click-plugins @ file:///Users/ktietz/demo/mc3/conda-bld/click-plugins_1630665883852/work
+cligj==0.7.2
+colorama==0.4.4
+cycler==0.10.0
+debugpy==1.4.1
+decorator==5.0.9
+defusedxml==0.7.1
+entrypoints==0.3
+Fiona==1.8.13.post1
+fonttools==4.25.0
+GDAL==3.0.2
+geopandas @ file:///tmp/build/80754af9/geopandas_1627401391374/work
+importlib-metadata==4.8.1
+ipykernel==6.3.1
+ipython==7.27.0
+ipython-genutils==0.2.0
+ipywidgets==7.6.4
+isort==5.8.0
+jedi==0.18.0
+Jinja2==3.0.1
+joblib @ file:///tmp/build/80754af9/joblib_1613502643832/work
+jsonschema==3.2.0
+jupyter==1.0.0
+jupyter-client==7.0.2
+jupyter-console==6.4.0
+jupyter-core==4.7.1
+jupyterlab-pygments==0.1.2
+jupyterlab-widgets==1.0.1
+kiwisolver @ file:///C:/ci/kiwisolver_1612282618948/work
+lazy-object-proxy==1.6.0
+mapclassify @ file:///tmp/build/80754af9/mapclassify_1627369494639/work
+MarkupSafe==2.0.1
+matplotlib @ file:///C:/ci/matplotlib-suite_1628011511716/work
+matplotlib-inline==0.1.3
+mccabe==0.6.1
+mistune==0.8.4
+mkl-fft==1.3.0
+mkl-random @ file:///C:/ci/mkl_random_1626186163140/work
+mkl-service==2.4.0
+munch @ file:///Users/ktietz/demo/mc3/conda-bld/munch_1630566382504/work
+munkres==1.1.4
+nbclient==0.5.4
+nbconvert==6.1.0
+nbformat==5.1.3
+nest-asyncio==1.5.1
+networkx @ file:///tmp/build/80754af9/networkx_1627459939258/work
+notebook==6.4.3
+numexpr @ file:///C:/ci/numexpr_1618856761305/work
+numpy @ file:///C:/ci/numpy_and_numpy_base_1626271861146/work
+olefile==0.46
+packaging==21.0
+pandas @ file:///C:/ci/pandas_1629682639137/work
+pandocfilters==1.4.3
+parso==0.8.2
+pickleshare==0.7.5
+Pillow @ file:///C:/ci/pillow_1625663286921/work
+prometheus-client==0.11.0
+prompt-toolkit==3.0.20
+pycparser==2.20
+Pygments==2.10.0
+pylint==2.8.3
+pyparsing @ file:///home/linux1/recipes/ci/pyparsing_1610983426697/work
+pyproj @ file:///C:/ci/pyproj_1614278152133/work
+pyrsistent==0.18.0
+python-dateutil @ file:///tmp/build/80754af9/python-dateutil_1626374649649/work
+pytz @ file:///tmp/build/80754af9/pytz_1612215392582/work
+pywin32==301
+pywinpty==1.1.4
+pyzmq==22.2.1
+qtconsole==5.1.1
+QtPy==1.11.0
+Rtree @ file:///C:/ci/rtree_1618421019532/work
+scikit-learn @ file:///C:/ci/scikit-learn_1622739441385/work
+scipy @ file:///C:/ci/scipy_1630606897162/work
+Send2Trash==1.8.0
+Shapely==1.7.1
+six @ file:///tmp/build/80754af9/six_1623709665295/work
+terminado==0.12.1
+testpath==0.5.0
+threadpoolctl @ file:///Users/ktietz/demo/mc3/conda-bld/threadpoolctl_1629802263681/work
+toml==0.10.2
+tornado @ file:///C:/ci/tornado_1606935947090/work
+traitlets==5.1.0
+typed-ast==1.4.3
+typing-extensions==3.10.0.2
+wcwidth==0.2.5
+webencodings==0.5.1
+widgetsnbextension==3.5.1
+wincertstore==0.2
+wrapt==1.12.1
+zipp==3.5.0
